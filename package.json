@@ -12,6 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/Weryth/todobot.git"
   },
+  "type": "module",
   "author": "Weryth",
   "license": "ISC",
   "bugs": {
